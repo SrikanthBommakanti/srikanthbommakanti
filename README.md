@@ -1,2 +1,2 @@
-## I'm Srikant B 👋
+## I'm Srikanth B 👋
 
