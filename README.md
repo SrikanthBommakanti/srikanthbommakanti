@@ -4,7 +4,7 @@
 
 I specialize in Data and Analytics Engineering, leveraging my expertise to design end-to-end solutions that optimize performance, ensure reliability, and enhance security across analytics and cloud environments. My passion lies in adopting cutting-edge technologies to drive efficiency and foster innovation.
 
-## 🔧 Languages and Tools:
+## Skills:
 <p align="left"> 
 <a href="https://www.informatica.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="dbt" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/in/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle"/> </a>
